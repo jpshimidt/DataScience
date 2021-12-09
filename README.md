@@ -1,2 +1,1 @@
-# DataScience
-Curso Alura
+# Estudo de Data Science - Curso Alura 🙇‍♂️
